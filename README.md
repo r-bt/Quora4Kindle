@@ -22,10 +22,14 @@ and then type in your credendentials for Quora
 #User settings
 
 Questions 
-  ```questionsNum = 50```* Please note this will set a minium of 50 but you could get a few more
+  ```python 
+  questionsNum = 50
+  ```
   
 Author 
-  ```ebookAuthor = "Quora4Kindle"```
+  ```python
+  ebookAuthor = "Quora4Kindle"
+  ```
   
 #Features in progress
  
