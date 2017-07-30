@@ -1,7 +1,7 @@
 # Quora4Kindle
 A python program to convert your Quora feed into a .mobi ebook
 
-#Dependencies
+# Dependencies
 
 Requires
 <ul>
@@ -9,7 +9,7 @@ Requires
   <li>Selenium python library</li>
 </ul>
 
-#Setup 
+# Setup 
 
 Currently is set to work with Google chrome
 
@@ -19,7 +19,7 @@ Call script like
   
 and then type in your credendentials for Quora
 
-#User settings
+# User settings
 
 Questions 
   ```python 
@@ -31,7 +31,7 @@ Author
   ebookAuthor = "Quora4Kindle"
   ```
   
-#Features in progress
+# Features in progress
  
  <ul>
   <li>Get a cover page</li>
